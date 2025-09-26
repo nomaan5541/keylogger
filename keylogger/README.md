@@ -1,10 +1,10 @@
 # 🧩 Simple Keylogger (Local)
 
-This is a basic Python keylogger that logs all keystrokes to a text file locally.
-This tool will work after the installation of **python3**
-Type this command for the installation **pip install pynput**
-Type in cmd **python main.py** at the location cmd
-The key logger will start all the character will be saved in the suprate file with time 
+- This is a basic Python keylogger that logs all keystrokes to a text file locally.
+- This tool will work after the installation of **python3**
+- Type this command for the installation **pip install pynput**
+- Type in cmd **python main.py** at the location cmd
+- The key logger will start all the character will be saved in the suprate file with time 
 
 
 ## 🚨 Disclaimer
@@ -24,4 +24,5 @@ remember to follow **virus_boss** for more tools
 ```bash
 pip install -r requirements.txt
 python main.py
+
 
