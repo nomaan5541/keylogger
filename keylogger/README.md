@@ -8,8 +8,8 @@
 
 
 ## 🚨 Disclaimer
-This tool is for **Fun use only**. Never run this on a machine or for a person without **clear permission**.
-remember to follow **virus_boss** for more tools 
+- This tool is for **Fun use only**. Never run this on a machine or for a person without **clear permission**.
+- Remember to follow **virus_boss** for more tools 
 
 ## 🧪 Features
 - Logs all keystrokes to `key_log.txt`
@@ -24,5 +24,6 @@ remember to follow **virus_boss** for more tools
 ```bash
 pip install -r requirements.txt
 python main.py
+
 
 
