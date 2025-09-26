@@ -18,7 +18,8 @@
 
 ## **.exe** 
 - the exe file can run in background to exit the program go to task manager and search main and edn the task
-- remember to use it for education/fun purpose only 
+- remember to use it for education/fun purpose only
+- open dist folder for the application 
 
 ## 🛠️ Requirements
 - Python 3
